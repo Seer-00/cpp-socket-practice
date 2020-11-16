@@ -1,9 +1,9 @@
 # cpp-socket-practice
 ## 构建信息
-语言：C++
-GUI：Qt 5.9.0
-主要技术：Socket通信，多线程QThread
-exe文件生成方式：Visual Studio 2017, Release x64
+1. 语言：C++
+2. GUI：Qt 5.9.0
+3. 主要技术：Socket通信，多线程QThread etc.
+4. exe文件生成方式：Visual Studio 2017, Release x64
 ## 使用方法
 1. 保证Server开启，打开Client，左上角选择connect
 2. Server向Client发送信息时，需选择Client的编号
